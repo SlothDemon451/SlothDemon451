@@ -101,7 +101,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SlothDemon451&show_icons=true&theme=radical" alt="stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SlothDemon451&layout=compact&theme=radical" alt="top langs" />
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&hide=html,css&layout=compact)
 </p>
 
 ---
