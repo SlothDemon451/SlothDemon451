@@ -1,6 +1,9 @@
 # 💫 About Me:
 🔭 I’m currently working on scalable full-stack applications using Next.js, Node.js, and MongoDB — including SaaS dashboards, e-commerce platforms, and AI-integrated tools.<br>👯 I’m looking to collaborate on open source projects, AI-driven applications, and real-time web platforms.<br>🤝 I’m looking for help with refining DevOps pipelines and scaling microservice-based architectures.<br>🌱 I’m currently learning Rust, LangChain for RAG-based systems, and advanced cloud infrastructure on AWS.<br>💬 Ask me about React, Next.js, Stripe integration, GPT-4 APIs, and building modular component libraries.<br>⚡ Fun fact: I often reverse-engineer tools just for fun — and I love turning complex ideas into intuitive UIs.<br>🐛 I don't like light mode it attracts bugs.<br><br>
 
+![Profile Views](https://komarev.com/ghpvc/?username=SlothDemon451&label=Profile%20views&color=0e75b6&style=flat)
+
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/usman.imran_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/usman-imran) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:usmanimran158@gmail.com) 
