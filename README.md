@@ -13,7 +13,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SlothDemon451&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SlothDemon451&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SlothDemon451&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SlothDemon451&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=html,css)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
