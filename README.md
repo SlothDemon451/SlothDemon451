@@ -6,7 +6,7 @@
 🌱 **Currently Learning/Exploring:** Rust, LangChain for RAG-based systems, and advanced cloud infrastructure on AWS.<br/>
 💬 **Ask Me About:** React/Next.js, React Native, Electron, Stripe integration, GPT-4 APIs, and building modular component libraries.<br/>
 ⚡ **Fun Fact:** I often reverse-engineer tools just for fun—and I love turning complex ideas into intuitive, responsive UIs.<br/>
-🐛 *I don't like light mode, it attracts bugs.*<br/>
+🐛 *I don't like light mode, it attracts bugs.*<br/><br/>
 ![Profile Views](https://komarev.com/ghpvc/?username=SlothDemon451&label=Profile%20views&color=0e75b6&style=flat)
 
 
