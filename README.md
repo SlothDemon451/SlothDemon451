@@ -1,12 +1,12 @@
 # 💫 About Me:
-🔭 **Currently Focused On:** Engineering scalable, full-stack ecosystems. I operate as a one-man product team handling architecture, frontend, backend, mobile apps, and robust server deployments.
-📱 **Cross-Platform Development:** Building high-performance mobile apps and sleek desktop applications alongside modern SaaS dashboards, e-commerce platforms, and AI-integrated tools.
-⚙️ **DevOps & Automation:** Architecting my own CI/CD pipelines from scratch—ensuring seamless, automated deployments across both staging and production environments.
-👯 **Looking to Collaborate On:** Open-source initiatives, AI-driven applications, and real-time, local-first web platforms.
-🌱 **Currently Learning/Exploring:** Rust, LangChain for RAG-based systems, and advanced cloud infrastructure on AWS.
-💬 **Ask Me About:** React/Next.js, React Native, Electron, Stripe integration, GPT-4 APIs, and building modular component libraries.
-⚡ **Fun Fact:** I often reverse-engineer tools just for fun—and I love turning complex ideas into intuitive, responsive UIs.
-🐛 *I don't like light mode, it attracts bugs.*
+🔭 **Currently Focused On:** Engineering scalable, full-stack ecosystems. I operate as a one-man product team handling architecture, frontend, backend, mobile apps, and robust server deployments.<br/>
+📱 **Cross-Platform Development:** Building high-performance mobile apps and sleek desktop applications alongside modern SaaS dashboards, e-commerce platforms, and AI-integrated tools.<br/>
+⚙️ **DevOps & Automation:** Architecting my own CI/CD pipelines from scratch—ensuring seamless, automated deployments across both staging and production environments.<br/>
+👯 **Looking to Collaborate On:** Open-source initiatives, AI-driven applications, and real-time, local-first web platforms.<br/>
+🌱 **Currently Learning/Exploring:** Rust, LangChain for RAG-based systems, and advanced cloud infrastructure on AWS.<br/>
+💬 **Ask Me About:** React/Next.js, React Native, Electron, Stripe integration, GPT-4 APIs, and building modular component libraries.<br/>
+⚡ **Fun Fact:** I often reverse-engineer tools just for fun—and I love turning complex ideas into intuitive, responsive UIs.<br/>
+🐛 *I don't like light mode, it attracts bugs.*<br/>
 ![Profile Views](https://komarev.com/ghpvc/?username=SlothDemon451&label=Profile%20views&color=0e75b6&style=flat)
 
 
